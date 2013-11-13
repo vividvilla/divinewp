@@ -1,16 +1,22 @@
-=== Genesis Sample Theme ===
+# Divine WP
+#### Clean, Minimal and Divine Genesis Child Theme
 
-Github project link: https://github.com/copyblogger/genesis-sample
+> You need to purchase [Genesis Framework](http://www.wpstuffs.com/genesis) in order to use this Theme.
 
+## Features
 
-=== Installation Instructions ===
+1. HTML5 and CSS3 support (Genesis 2 compatible)
+2. Post formats integration
+3. Fully mobile responsive
+4. Minialistic and Lightweight
+5. Mobile responsive iframe using Fitvid.js
+6. Clean typography
+7. Threaded comments 
 
-1. Upload the Genesis Sample theme folder via FTP to your wp-content/themes/ directory. (The Genesis parent theme needs to be in the wp-content/themes/ directory as well.)
-2. Go to your WordPress dashboard and select Appearance.
-3. Activate the Genesis Sample theme.
-4. Inside your WordPress dashboard, go to Genesis > Theme Settings and configure them to your liking.
+## Important Links
+#### [View Live Demo](http://demo.wpstuffs.com/divinewp/)
+#### [Mobile responsive test][http://www.studiopress.com/responsive/?demo.wpstuffs.com/divinewp/)
+#### [Report bugs, question & features](https://github.com/vividvilla/divinewp/issues)
 
-
-=== Theme Support ===
-
-Please visit http://my.studiopress.com/help/ for theme support.
+## Designed by [Vivek](http://vivekr.net)
+## For more themes visit [WPStuffs](http://www.wpstuffs.com/)
