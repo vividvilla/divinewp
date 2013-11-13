@@ -15,7 +15,7 @@
 
 ## Important Links
 #### [View Live Demo](http://demo.wpstuffs.com/divinewp/)
-#### [Mobile responsive test][http://www.studiopress.com/responsive/?demo.wpstuffs.com/divinewp/)
+#### [Mobile responsive test](http://www.studiopress.com/responsive/?demo.wpstuffs.com/divinewp/)
 #### [Report bugs, question & features](https://github.com/vividvilla/divinewp/issues)
 
 ## Designed by [Vivek](http://vivekr.net)
